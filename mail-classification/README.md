@@ -2,6 +2,9 @@
 
 邮箱：admihao@163.com
 
+![img](https://raw.githubusercontent.com/BinHaoWang/PM/master/mail-classification/doc/%E6%B5%81%E7%A8%8B%E8%AF%B4%E6%98%8E.jpg?raw=true)
+
+
 
 ![img](https://raw.githubusercontent.com/BinHaoWang/PM/master/mail-classification/doc/%E6%B5%81%E7%A8%8B%E8%AF%B4%E6%98%8E.jpg?raw=true)
 
