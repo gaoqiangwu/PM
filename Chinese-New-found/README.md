@@ -1,9 +1,10 @@
 ## 中文分词新词发现
 
 利用了互信息和左右信息熵的中文分词新词发现
-- [1-互信息](http://www.hankcs.com/nlp/extraction-and-identification-of-mutual-information-about-the-phrase-based-on-information-entropy.html)
-- [2-互信息](https://blog.csdn.net/lk7688535/article/details/52529610)
-- [3-互信息](http://www.cnblogs.com/ywl925/p/3736277.html)
+- [反作弊基于左右信息熵和互信息的新词挖掘](https://zhuanlan.zhihu.com/p/25499358)
+
+- [基于互信息和左右信息熵的短语提取识别](http://www.hankcs.com/nlp/extraction-and-identification-of-mutual-information-about-the-phrase-based-on-information-entropy.html)
+
 ## 简介:
 - 使用[jieba分词](https://github.com/fxsjy/jieba)为基本分词组件
 - 针对用户给出的文本，利用信息熵进行新词发现
